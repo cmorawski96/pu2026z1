@@ -1,5 +1,5 @@
 def powitanie(imie):
-    print(f"Cześć, {imie}! To świetny dzień na naukę!")
+    print(f"Cześć, {imie}!")
 
 
 def dodaj_liczby(a, b):
